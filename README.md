@@ -45,14 +45,6 @@ I'm Rajvardhan Mall, a Computer Science undergraduate from India passionate abou
 
 ---
 
-### 📊 Data Analytics & BI
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40"/>
-  <img src="https://skillicons.dev/icons?i=excel" height="40"/>
-</p>
-
----
-
 ### ⚙️ Tools & Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" height="40"/>
@@ -64,15 +56,16 @@ I'm Rajvardhan Mall, a Computer Science undergraduate from India passionate abou
 
 ---
 
-## 🔥 My Stats :
+## 🔥 My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamrajvardhanmall&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamrajvardhanmall&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iamrajvardhanmall&show_icons=true&theme=tokyonight&cache_seconds=1800" height="170"/>
+  
+  <img src="https://streak-stats.demolab.com?user=iamrajvardhanmall&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrajvardhanmall&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrajvardhanmall&layout=compact&theme=tokyonight&cache_seconds=1800" height="170"/>
 </p>
 
 ---
