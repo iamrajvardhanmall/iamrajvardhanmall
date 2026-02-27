@@ -40,7 +40,6 @@ I'm Rajvardhan Mall, a Computer Science undergraduate from India passionate abou
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" height="40"/>
   <img src="https://skillicons.dev/icons?i=sklearn" height="40"/>
-  <img src="https://skillicons.dev/icons?i=streamlit" height="40"/>
   <img src="https://skillicons.dev/icons?i=anaconda" height="40"/>
 </p>
 
@@ -49,12 +48,8 @@ I'm Rajvardhan Mall, a Computer Science undergraduate from India passionate abou
 ### 📊 Data Analytics & BI
 <p align="left">
   <img src="https://skillicons.dev/icons?i=excel" height="40"/>
+  <img src="https://skillicons.dev/icons?i=powerbi" height="40"/>
 </p>
-
-- Power BI  
-- DAX  
-- Star Schema Modeling  
-- Dashboarding & KPI Reporting  
 
 ---
 
@@ -84,17 +79,54 @@ I'm Rajvardhan Mall, a Computer Science undergraduate from India passionate abou
 
 ## 🚀 Featured Projects
 
-### 📈 Predicting Coca-Cola Stock Prices Using ML
-Time series forecasting project with feature engineering, model evaluation, and visualization in Jupyter.
+### 🚗 Car Loan Calculator  
+Full-stack financial web app with amortization schedules, authentication, AI-powered car value estimation, and PDF report generation.  
 
-### 🤖 AutoLeet – AI Powered LeetCode Problem Solver
-Automates solving coding problems using AI-driven logic interpretation.
+**Tech Stack:**  
+<p>
+  <img src="https://skillicons.dev/icons?i=django" height="30"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="30"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30"/>
+  <img src="https://skillicons.dev/icons?i=html" height="30"/>
+  <img src="https://skillicons.dev/icons?i=css" height="30"/>
+</p>
 
-### 📊 Bank Churn EDA
-Exploratory Data Analysis project uncovering customer churn patterns using Python.
+---
 
-### 📊 Power BI Dashboard
-Interactive business intelligence dashboard with KPI insights and filtering.
+### 🤖 AutoLeet – AI LeetCode Problem Solver  
+AI-assisted system for automated problem interpretation and structured solution generation.  
+
+**Tech Stack:**  
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="30"/>
+  <img src="https://skillicons.dev/icons?i=git" height="30"/>
+</p>
+
+---
+
+### 📊 Play Store App Rating Predictor  
+End-to-end ML project with PCA, Random Forest & K-Means, deployed via Streamlit for interactive predictions.  
+
+**Tech Stack:**  
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="30"/>
+  <img src="https://skillicons.dev/icons?i=anaconda" height="30"/>
+</p>
+
+Libraries: Pandas · NumPy · Scikit-learn · Matplotlib · Streamlit  
+
+---
+
+### 🎵 Music Streaming Integration Platform  
+API-driven full-stack application with authentication and third-party integrations.  
+
+**Tech Stack:**  
+<p>
+  <img src="https://skillicons.dev/icons?i=django" height="30"/>
+  <img src="https://skillicons.dev/icons?i=react" height="30"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="30"/>
+</p>
 
 ---
 
