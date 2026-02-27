@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajvardhan Mall</h1>
-<h3 align="center">B.Tech CSE Student | Data Science & ML Enthusiast | Full-Stack Developer</h3>
+<h3 align="center">B.Tech CSE Student | Full-Stack Developer | Data Science & ML Enthusiast </h3>
 
 ---
 
@@ -47,8 +47,8 @@ I'm Rajvardhan Mall, a Computer Science undergraduate from India passionate abou
 
 ### 📊 Data Analytics & BI
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40"/>
   <img src="https://skillicons.dev/icons?i=excel" height="40"/>
-  <img src="https://skillicons.dev/icons?i=powerbi" height="40"/>
 </p>
 
 ---
