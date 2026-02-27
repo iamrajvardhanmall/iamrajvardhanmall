@@ -44,14 +44,6 @@ I'm Rajvardhan Mall, a Computer Science undergraduate from India passionate abou
   <img src="https://skillicons.dev/icons?i=anaconda" height="40"/>
 </p>
 
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-- PCA  
-- Random Forest  
-- K-Means  
-
 ---
 
 ### 📊 Data Analytics & BI
