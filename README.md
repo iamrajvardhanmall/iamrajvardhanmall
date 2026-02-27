@@ -1,91 +1,81 @@
-# Hi, I'm Rajvardhan Mall 👋  
-
-🎓 B.Tech CSE Student  
-💻 Full-Stack Developer | 📊 Data Science Enthusiast | 🤖 Machine Learning Practitioner  
-🏆 Competitive Programmer (LeetCode 1500+ Rating | 200+ Problems Solved)
+<h1 align="center">Hi 👋, I'm Rajvardhan Mall</h1>
+<h3 align="center">B.Tech CSE Student | Data Science & ML Enthusiast | Full-Stack Developer</h3>
 
 ---
 
-## 🚀 About Me
+## 🙋‍♂️ About Me
 
-I am a Computer Science undergraduate passionate about building scalable applications and intelligent systems.  
-I enjoy solving real-world problems using **Machine Learning, Data Analytics, and Full-Stack Development**.
+I'm Rajvardhan Mall, a Computer Science undergraduate from India passionate about building intelligent systems and scalable applications.
 
-- 🔍 Currently working on: **Stock Price Prediction using ML**
-- 🧠 Exploring: Advanced Machine Learning & System Design
-- 💡 Interested in: AI, Backend Engineering, Data Engineering
-- ⚡ Strengths: Analytical Thinking, Leadership, Time Management
+- 🔭 I’m working as a **Machine Learning & Full-Stack Developer (Student Projects & Personal Builds)**
+- 📚 I’m currently learning **Advanced Machine Learning, System Design & Backend Architecture**
+- ⚡ In my free time I solve **DSA problems on LeetCode, build side projects, and explore new technologies**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Language and Tools
 
-### 👨‍💻 Programming
-- Python
-- C++
-- JavaScript
+<p align="left"> 
+  
+<img src="https://skillicons.dev/icons?i=python" height="40"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="40"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="40"/>
+<img src="https://skillicons.dev/icons?i=django" height="40"/>
+<img src="https://skillicons.dev/icons?i=react" height="40"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+<img src="https://skillicons.dev/icons?i=git" height="40"/>
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+<img src="https://skillicons.dev/icons?i=docker" height="40"/>
+<img src="https://skillicons.dev/icons?i=aws" height="40"/>
 
-### 🌐 Web Development
-- Django
-- React
-- REST APIs
-- HTML / CSS
+</p>
 
-### 📊 Data Science & ML
-- NumPy
-- Pandas
-- Matplotlib / Seaborn
-- Scikit-learn
-- Streamlit
-- Jupyter Notebook
-
-### 🗄️ Databases & Tools
-- MySQL
-- Git & GitHub
-- Power BI
-- Anaconda
+### 📊 Data Science Stack
+- NumPy  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+- Scikit-learn  
+- Streamlit  
+- Jupyter Notebook  
+- Power BI  
 
 ---
 
-## 📌 Featured Projects
+## 🔥 My Stats :
 
-### 📊 Predicting Coca-Cola Stock Prices Using Machine Learning
-- Time series forecasting
-- Feature engineering
-- Data visualization
-- Model evaluation & performance metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamrajvardhanmall&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamrajvardhanmall&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrajvardhanmall&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📈 Predicting Coca-Cola Stock Prices Using ML
+Time series forecasting project with feature engineering, model evaluation, and visualization in Jupyter.
 
 ### 🤖 AutoLeet – AI Powered LeetCode Problem Solver
-- Automates solving LeetCode problems
-- Integrates AI for smart problem interpretation
+Automates solving coding problems using AI-driven logic interpretation.
 
-### 📈 Bank Churn EDA Project
-- Exploratory Data Analysis
-- Customer behavior insights
-- Visualization-driven conclusions
+### 📊 Bank Churn EDA
+Exploratory Data Analysis project uncovering customer churn patterns using Python.
 
-### 📊 Power BI Dashboard Project
-- Business Intelligence dashboard
-- Interactive filtering & KPI analysis
+### 📊 Power BI Dashboard
+Interactive business intelligence dashboard with KPI insights and filtering.
 
 ---
 
 ## 🏆 Competitive Programming
 
-- LeetCode Rating: 1500+
-- 200+ Problems Solved
-- Strong foundation in:
-  - Data Structures
-  - Algorithms
-  - Problem Solving
-
----
-
-## 📈 GitHub Stats
-
-![Rajvardhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamrajvardhanmall&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamrajvardhanmall&layout=compact&theme=radical)
+- 🔥 200+ Problems Solved
+- 💪 Strong in Data Structures & Algorithms
+- 📊 LeetCode Rating ~1500+
 
 ---
 
@@ -93,14 +83,8 @@ I enjoy solving real-world problems using **Machine Learning, Data Analytics, an
 
 - 💼 LinkedIn: (Add your LinkedIn link)
 - 📧 Email: (Add your professional email)
-- 🧠 LeetCode: (Add your profile link)
+- 🧠 LeetCode: (Add profile link)
 
 ---
 
-## 🎯 Career Objective
-
-To leverage my skills in Machine Learning, Data Science, and Software Development to build impactful, scalable solutions and continuously grow as a technology professional.
-
----
-
-⭐ If you find my work interesting, feel free to explore my repositories and connect!
+⭐ Always open to collaboration on Machine Learning, Data Science, and Backend projects.
