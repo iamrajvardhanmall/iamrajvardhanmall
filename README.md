@@ -13,32 +13,67 @@ I'm Rajvardhan Mall, a Computer Science undergraduate from India passionate abou
 
 ---
 
-## 🛠 Language and Tools
+## 🛠 Languages and Tools
 
-<p align="left"> 
-  
-<img src="https://skillicons.dev/icons?i=python" height="40"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="40"/>
-<img src="https://skillicons.dev/icons?i=javascript" height="40"/>
-<img src="https://skillicons.dev/icons?i=django" height="40"/>
-<img src="https://skillicons.dev/icons?i=react" height="40"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="40"/>
-<img src="https://skillicons.dev/icons?i=git" height="40"/>
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
-<img src="https://skillicons.dev/icons?i=docker" height="40"/>
-<img src="https://skillicons.dev/icons?i=aws" height="40"/>
-
+### 👨‍💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="40"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="40"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="40"/>
+  <img src="https://skillicons.dev/icons?i=sql" height="40"/>
 </p>
 
-### 📊 Data Science Stack
-- NumPy  
+---
+
+### 🌐 Full-Stack Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+</p>
+
+---
+
+### 📊 Data Science & Machine Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="40"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" height="40"/>
+  <img src="https://skillicons.dev/icons?i=streamlit" height="40"/>
+  <img src="https://skillicons.dev/icons?i=anaconda" height="40"/>
+</p>
+
 - Pandas  
+- NumPy  
 - Matplotlib  
 - Seaborn  
-- Scikit-learn  
-- Streamlit  
-- Jupyter Notebook  
+- PCA  
+- Random Forest  
+- K-Means  
+
+---
+
+### 📊 Data Analytics & BI
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=excel" height="40"/>
+</p>
+
 - Power BI  
+- DAX  
+- Star Schema Modeling  
+- Dashboarding & KPI Reporting  
+
+---
+
+### ⚙️ Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="40"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="40"/>
+</p>
 
 ---
 
