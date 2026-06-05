@@ -3,7 +3,7 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me.  
 
 I'm Rajvardhan Mall, a Computer Science undergraduate from India passionate about building intelligent systems and scalable applications.
 
