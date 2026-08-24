@@ -143,9 +143,9 @@ Power BI · DAX · Star Schema Modeling · Data Visualization
 
 ## 🏆 Competitive Programming
 
-- 🔥 230+ Problems Solved
+- 🔥 330+ Problems Solved
 - 💪 Strong in Data Structures & Algorithms
-- 📊 LeetCode Rating ~1500+
+- 📊 LeetCode Rating ~1530+
 
 ---
 
